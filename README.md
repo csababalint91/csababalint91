@@ -2,10 +2,9 @@
 
 #### Welcome to my GitHub Page! 😀
 
-<center>
+
 I spend most of my time coding using React, JavaScript, HTML, and CSS. <br />
 I really enjoy learning new languages and technologies.
-</center>
 
 
 ## Skills
@@ -25,7 +24,4 @@ I’m currently learning Webpack and Parcel.
 I am looking for help with getting my first role as a Front-End Developer.
 
 📫 You can reach me via e-mail: csaba.balint91@gmail.com
-
-
-
 
