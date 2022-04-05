@@ -7,10 +7,15 @@ I spend most of my time coding using React, JavaScript, HTML, and CSS. <br />
 I really enjoy learning new languages and technologies.
 
 
-## Skills
+## Skills & Technologies
 * ⚛ React
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS(SCSS), JS
+* Express.js
 * 📦 Webpack
+* Netlify
+* Vercel
+
+
 
 
 ### 👇🏼 Check out some of my projects on netlify
