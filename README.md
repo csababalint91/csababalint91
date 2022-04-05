@@ -10,8 +10,8 @@ I really enjoy learning new languages and technologies.
 ## Skills & Technologies
 * ⚛ React
 * 💻 HTML, CSS(SCSS), JS
-* Express.js
 * 📦 Webpack
+* Express.js
 * Netlify
 * Vercel
 
