@@ -1,4 +1,4 @@
-### Hi, I'm Chad Balint 🙋‍♂️
+### Hi, I'm Csaba Balint 🙋‍♂️
 
 #### Welcome to my GitHub Page! 😀
 
